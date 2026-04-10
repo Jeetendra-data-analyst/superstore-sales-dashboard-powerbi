@@ -47,17 +47,16 @@ This dashboard helps analyze sales and profit performance across regions and cat
 
 ---
 
-<h2>📊 Dashboard Preview</h2>
+## 📊 Dashboard Preview
 
 <p align="center">
   <img src="dashboard.jpg" alt="Online Sales Dashboard" width="900">
 </p>
----
 
 ## 🚀 How to Use
 1. Download the `.pbix` file  
 2. Open in Power BI Desktop  
-3. Explore interactive dashboard  
+3. Explore interactive dashboard   
 
 ---
 
