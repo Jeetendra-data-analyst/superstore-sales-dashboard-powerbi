@@ -47,9 +47,11 @@ This dashboard helps analyze sales and profit performance across regions and cat
 
 ---
 
-## 📷 Dashboard Preview
-![Dashboard](image.jpeg)
+<h2>📊 Dashboard Preview</h2>
 
+<p align="center">
+  <img src="dashboard.jpg" alt="Online Sales Dashboard" width="900">
+</p>
 ---
 
 ## 🚀 How to Use
